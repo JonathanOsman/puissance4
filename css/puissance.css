@@ -1,0 +1,27 @@
+/* Définition du board*/
+
+table {
+    margin: auto;
+    border: 1px solid rgb(24, 189, 54);
+
+}
+
+td {
+    margin: auto;
+    border: 1px solid rgb(24, 189, 54);
+    width: 75px;
+    text-align: center;
+}
+
+tr {
+    margin: auto;
+    border: 1px solid rgb(24, 189, 54);
+    height: 75px;
+}
+
+.player {
+    border-radius: 50px 50px 50px 50px;
+    width:55px;
+    height: 55px;
+    display: inline-block;
+}
